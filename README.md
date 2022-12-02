@@ -1,7 +1,5 @@
-# Magic Navigation
+# Magic Navigation 👨🏽‍💻
 ### Efeito em barra de navegação utilizando HTML, CSS e JAVASCRIPT.
-Utilizei HTML, CSS e Javascript.<br>
-Conceitos básicos de DOM e box-model.
 <hr>
 
 
